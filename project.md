@@ -68,11 +68,11 @@
 
 * 分配中心
 
-![](assets/asign-center.png)
+![](assets/assign-center.png)
 
 * 分配任务
 
-![](assets/asign-task.png)
+![](assets/assign-task.png)
 
 
 
