@@ -24,6 +24,11 @@
     * [高级用法](question/advanced.md)
     * [预览](question/preview.md)
 * [研究项目](project.md)
+    * [项目概览](project/summary.md)
+    * [患者病例](project/patient-list.md)
+    * [项目成员](project/member.md)
+    * [项目中心](project/center.md)
+    * [随访计划](project/plan.md)
 * [患者登记](patient.md)
 * [随访管理](follow.md)
 
