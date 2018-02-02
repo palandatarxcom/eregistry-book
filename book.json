@@ -1,0 +1,17 @@
+{
+  "title": "派兰患者登记云随访系统用户使用手册",
+  "author" : "YuanZhencai",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "派兰数据": "http://www.datarx.cn"
+    },
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false,
+      "all": false
+    }
+  }
+}
