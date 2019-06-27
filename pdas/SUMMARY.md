@@ -1,6 +1,6 @@
 * [简介](README.md)
 * [账户](accounts.md)
-    * [个人](accounts.md#个人)
+    * [登录](accounts.md#登录)
     * [团队](accounts.md#团队)
 * [分析项目](projects.md)
     * [创建数据分析项目](projects.md#创建数据分析项目)

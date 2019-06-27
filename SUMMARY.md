@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 * [账户](pdas/accounts.md)
-    * [个人](pdas/accounts.md#个人)
+    * [登录](pdas/accounts.md#登录)
     * [团队](pdas/accounts.md#团队)
 * [分析项目](pdas/projects.md)
     * [创建数据分析项目](pdas/projects.md#创建数据分析项目)
